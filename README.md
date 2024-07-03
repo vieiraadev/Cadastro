@@ -2,7 +2,7 @@ Tela de Cadastro
 
 Este é um projeto de uma Tela de Cadastro simples feito com HTML e CSS. A tela de cadastro permite que os usuários insiram suas informações pessoais, como nome, e-mail, e valide os dados antes de enviá-los.
 
-
+Funcionalidades
 
 Formulário de cadastro com campos para nome, e-mail<br>
 Validação básica dos campos de entrada.<br>
